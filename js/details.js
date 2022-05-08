@@ -50,5 +50,5 @@ function createHTML(details){
 
 fetchBrewery();
 
-// I wanted to remove the lnk if the brewery didnt have a website. But I didnt find a way to do it. I would really appreciate it if you could tell me how, if that is possible.
+// I wanted to remove the link if the brewery didnt have a website. But I didnt find a way to do it. I would really appreciate it if you could tell me how, if that is possible.
 
